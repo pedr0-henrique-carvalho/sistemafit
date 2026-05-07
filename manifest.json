@@ -9,3 +9,15 @@
   "start_url": "/https://pedr0-henrique-carvalho.github.io/sistemafit/",
   "theme_color": "#ffffff"
 }
+"icons": [
+  {
+    "src": "icone192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "icone512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
