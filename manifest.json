@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "fitteste",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "fit",
+  "start_url": "/https://pedr0-henrique-carvalho.github.io/sistemafit/",
+  "theme_color": "#ffffff"
+}
